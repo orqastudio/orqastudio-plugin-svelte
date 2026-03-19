@@ -7,6 +7,8 @@ plugin: "@orqastudio/plugin-svelte"
 relationships:
   - target: DOC-SVE-001
     type: synchronised-with
+  - target: AGENT-SVE-001
+    type: employed-by
 ---
 
 # Testing Patterns
