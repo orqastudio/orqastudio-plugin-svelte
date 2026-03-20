@@ -1,3 +1,15 @@
+---
+id: SKILL-b29e340b
+type: skill
+title: "SvelteKit Patterns Reference"
+status: active
+created: 2026-03-20
+updated: 2026-03-20
+relationships:
+  - target: DOC-SVE-5d832d1d
+    type: synchronised-with
+---
+
 # SvelteKit Patterns Reference
 
 ## Table of Contents

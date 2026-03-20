@@ -1,3 +1,15 @@
+---
+id: SKILL-6a2bc391
+type: skill
+title: "Svelte 4 to Svelte 5 Migration Reference"
+status: active
+created: 2026-03-20
+updated: 2026-03-20
+relationships:
+  - target: DOC-SVE-5d832d1d
+    type: synchronised-with
+---
+
 # Svelte 4 to Svelte 5 Migration Reference
 
 ## Table of Contents

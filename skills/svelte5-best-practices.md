@@ -12,11 +12,9 @@ file-patterns:
 user-invocable: false
 license: MIT
 metadata: null
-relationships: []
 relationships:
   - target: DOC-SVE-5d832d1d
     type: synchronised-with
-
 ---
 
 

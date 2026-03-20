@@ -1,3 +1,15 @@
+---
+id: SKILL-344a1247
+type: skill
+title: "Svelte 5 Runes Reference"
+status: active
+created: 2026-03-20
+updated: 2026-03-20
+relationships:
+  - target: DOC-SVE-5d832d1d
+    type: synchronised-with
+---
+
 # Svelte 5 Runes Reference
 
 ## Table of Contents

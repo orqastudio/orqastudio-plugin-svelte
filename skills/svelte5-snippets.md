@@ -1,3 +1,15 @@
+---
+id: SKILL-6963d39f
+type: skill
+title: "Svelte 5 Snippets Reference"
+status: active
+created: 2026-03-20
+updated: 2026-03-20
+relationships:
+  - target: DOC-SVE-5d832d1d
+    type: synchronised-with
+---
+
 # Svelte 5 Snippets Reference
 
 ## Table of Contents
